@@ -272,7 +272,7 @@ db.atletas.insertMany([
       peso: 78
     },
     experiencia: {
-      anos_practicando: 8,
+      anios_practicando: 8,
       competencias_internacionales: 12
     },
     logros: [
@@ -306,7 +306,7 @@ db.atletas.insertMany([
       peso: 58
     },
     experiencia: {
-      anos_practicando: 10,
+      anios_practicando: 10,
       competencias_internacionales: 8
     },
     logros: [
@@ -334,7 +334,7 @@ db.atletas.insertMany([
       peso: 72
     },
     experiencia: {
-      anos_practicando: 15,
+      anios_practicando: 15,
       competencias_internacionales: 25
     },
     logros: [
@@ -368,7 +368,7 @@ db.atletas.insertMany([
       peso: 65
     },
     experiencia: {
-      anos_practicando: 12,
+      anios_practicando: 12,
       competencias_internacionales: 18
     },
     logros: [
@@ -402,7 +402,7 @@ db.atletas.insertMany([
       peso: 82
     },
     experiencia: {
-      anos_practicando: 12,
+      anios_practicando: 12,
       competencias_internacionales: 22
     },
     logros: [
@@ -436,7 +436,7 @@ db.atletas.insertMany([
       peso: 62
     },
     experiencia: {
-      anos_practicando: 14,
+      anios_practicando: 14,
       competencias_internacionales: 16
     },
     logros: [
@@ -470,7 +470,7 @@ db.atletas.insertMany([
       peso: 68
     },
     experiencia: {
-      anos_practicando: 11,
+      anios_practicando: 11,
       competencias_internacionales: 28
     },
     logros: [
@@ -504,7 +504,7 @@ db.atletas.insertMany([
       peso: 60
     },
     experiencia: {
-      anos_practicando: 9,
+      anios_practicando: 9,
       competencias_internacionales: 14
     },
     logros: [
@@ -532,7 +532,7 @@ db.atletas.insertMany([
       peso: 73
     },
     experiencia: {
-      anos_practicando: 16,
+      anios_practicando: 16,
       competencias_internacionales: 20
     },
     logros: [
@@ -566,7 +566,7 @@ db.atletas.insertMany([
       peso: 48
     },
     experiencia: {
-      anos_practicando: 6,
+      anios_practicando: 6,
       competencias_internacionales: 9
     },
     logros: [
@@ -594,7 +594,7 @@ db.atletas.insertMany([
       peso: 58
     },
     experiencia: {
-      anos_practicando: 10,
+      anios_practicando: 10,
       competencias_internacionales: 15
     },
     logros: [
@@ -628,7 +628,7 @@ db.atletas.insertMany([
       peso: 65
     },
     experiencia: {
-      anos_practicando: 13,
+      anios_practicando: 13,
       competencias_internacionales: 19
     },
     logros: [
@@ -662,7 +662,7 @@ db.atletas.insertMany([
       peso: 75
     },
     experiencia: {
-      anos_practicando: 14,
+      anios_practicando: 14,
       competencias_internacionales: 32
     },
     logros: [
@@ -696,7 +696,7 @@ db.atletas.insertMany([
       peso: 72
     },
     experiencia: {
-      anos_practicando: 8,
+      anios_practicando: 8,
       competencias_internacionales: 11
     },
     logros: [
@@ -724,7 +724,7 @@ db.atletas.insertMany([
       peso: 59
     },
     experiencia: {
-      anos_practicando: 12,
+      anios_practicando: 12,
       competencias_internacionales: 17
     },
     logros: [

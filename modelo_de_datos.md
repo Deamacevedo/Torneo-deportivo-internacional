@@ -2,7 +2,7 @@
 
 ## Análisis del Contexto
 
-Para el Torneo Deportivo Internacional de GlobalSports Union, se requiere un sistema que gestione información de múltiples países, disciplinas deportivas, atletas y competiciones. Después del análisis, he identificado las siguientes necesidades:
+Para el Torneo Deportivo Internacional de GlobalSports Union, se requiere un sistema que gestione información de múltiples países, disciplinas deportivas, atletas y competiciones. Después del análisis, he identificado las siguientes necesidades: 
 
 - Gestión de países y delegaciones
 - Registro de atletas con sus características

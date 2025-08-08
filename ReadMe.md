@@ -2,7 +2,7 @@
 
 **Estudiante:** Dylan Acevedo
 **Proyecto:** Sistema de gestión de base de datos para torneo deportivo internacional  
-**Tecnología:** MongoDB  
+**Tecnología:** MongoDB   
 
 ## Descripción del Proyecto
 

@@ -1,6 +1,6 @@
 // =============================================================================
 // CONSULTAS SENCILLAS - TORNEO DEPORTIVO INTERNACIONAL
-// Consultas por uno o dos campos, sin operadores complejos
+// Consultas por uno o dos campos, sin operadores complejos 
 // =============================================================================
 
 use torneo_deportivo_internacional
