@@ -55,7 +55,7 @@ Contiene información detallada de cada atleta participante.
   - `altura`: Number (en cm)
   - `peso`: Number (en kg)
 - `experiencia`: Object
-  - `anos_practicando`: Number
+  - `anios_practicando`: Number
   - `competencias_internacionales`: Number
 - `logros`: Array de Objects
   - `competencia`: String
