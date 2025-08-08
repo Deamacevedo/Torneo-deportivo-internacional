@@ -165,7 +165,7 @@ Resultado esperado: Atletas jóvenes con mucha experiencia internacional
 // =============================================================================
 
 db.atletas.find({
-  "logros.ano": {
+  "logros.anio": {
     "$in": [2023, 2024]
   }
 });

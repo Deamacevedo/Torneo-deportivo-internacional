@@ -61,7 +61,7 @@ Contiene información detallada de cada atleta participante.
   - `competencia`: String
   - `posicion`: Number
   - `medalla`: String
-  - `ano`: Number
+  - `anio`: Number
 - `activo`: Boolean
 - `fecha_registro`: Date
 

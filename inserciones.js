@@ -161,7 +161,7 @@ db.paises.insertMany([
     continente: "Europa",
     delegacion: {
       jefe_delegacion: "Marco Rossi",
-      entrenadores: ["Giulia Bianchi", "Antonio Romano", "Francesca Conti"],
+      entrenadores: ["Giulia Bianchi", "Antonio Romanio", "Francesca Conti"],
       total_atletas: 44
     },
     medallas_historicas: {
@@ -277,16 +277,16 @@ db.atletas.insertMany([
     },
     logros: [
       {
-        competencia: "Sudamericanos 2023",
+        competencia: "Sudamericanios 2023",
         posicion: 2,
         medalla: "plata",
-        ano: 2023
+        anio: 2023
       },
       {
-        competencia: "Panamericanos 2022",
+        competencia: "Panamericanios 2022",
         posicion: 1,
         medalla: "oro",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -314,7 +314,7 @@ db.atletas.insertMany([
         competencia: "Mundial Juvenil 2021",
         posicion: 3,
         medalla: "bronce",
-        ano: 2021
+        anio: 2021
       }
     ],
     activo: true,
@@ -342,13 +342,13 @@ db.atletas.insertMany([
         competencia: "Copa América 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Mundial Sub-20 2019",
         posicion: 2,
         medalla: "plata",
-        ano: 2019
+        anio: 2019
       }
     ],
     activo: true,
@@ -376,13 +376,13 @@ db.atletas.insertMany([
         competencia: "Mundial de Judo 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
-        competencia: "Panamericanos 2022",
+        competencia: "Panamericanios 2022",
         posicion: 1,
         medalla: "oro",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -410,13 +410,13 @@ db.atletas.insertMany([
         competencia: "Mundial de Atletismo 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Diamond League 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       }
     ],
     activo: true,
@@ -444,13 +444,13 @@ db.atletas.insertMany([
         competencia: "NCAA Championships 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "World Aquatics 2022",
         posicion: 2,
         medalla: "plata",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -478,13 +478,13 @@ db.atletas.insertMany([
         competencia: "Tour de Francia 2023",
         posicion: 3,
         medalla: "bronce",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Mundial de Ciclismo 2022",
         posicion: 1,
         medalla: "oro",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -512,7 +512,7 @@ db.atletas.insertMany([
         competencia: "Mundial de Esgrima 2023",
         posicion: 2,
         medalla: "plata",
-        ano: 2023
+        anio: 2023
       }
     ],
     activo: true,
@@ -540,13 +540,13 @@ db.atletas.insertMany([
         competencia: "Juegos Asiáticos 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Mundial de Judo 2022",
         posicion: 2,
         medalla: "plata",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -574,7 +574,7 @@ db.atletas.insertMany([
         competencia: "Maratón de Tokio 2024",
         posicion: 1,
         medalla: "oro",
-        ano: 2024
+        anio: 2024
       }
     ],
     activo: true,
@@ -602,13 +602,13 @@ db.atletas.insertMany([
         competencia: "Mundial de Atletismo 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Diamond League 2023",
         posicion: 2,
         medalla: "plata",
-        ano: 2023
+        anio: 2023
       }
     ],
     activo: true,
@@ -636,13 +636,13 @@ db.atletas.insertMany([
         competencia: "Commonwealth Games 2022",
         posicion: 1,
         medalla: "oro",
-        ano: 2022
+        anio: 2022
       },
       {
         competencia: "World Aquatics 2023",
         posicion: 3,
         medalla: "bronce",
-        ano: 2023
+        anio: 2023
       }
     ],
     activo: true,
@@ -670,13 +670,13 @@ db.atletas.insertMany([
         competencia: "Mundial de Ciclismo en Pista 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Europeos 2022",
         posicion: 2,
         medalla: "plata",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -704,7 +704,7 @@ db.atletas.insertMany([
         competencia: "Asiáticos 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       }
     ],
     activo: true,
@@ -732,13 +732,13 @@ db.atletas.insertMany([
         competencia: "World Aquatics 2023",
         posicion: 1,
         medalla: "oro",
-        ano: 2023
+        anio: 2023
       },
       {
         competencia: "Asiáticos 2022",
         posicion: 1,
         medalla: "oro",
-        ano: 2022
+        anio: 2022
       }
     ],
     activo: true,
@@ -1081,7 +1081,7 @@ db.competiciones.insertMany([
       }
     },
     estado: "finalizada",
-    observaciones: "Excelente marca del colombiano"
+    observaciones: "Excelente marca del colombianio"
   },
   {
     codigo_competencia: "JUD002",
@@ -1180,7 +1180,7 @@ db.competiciones.insertMany([
     fase: "final",
     fecha: new Date("2024-08-25"),
     hora: "07:00",
-    sede: "Circuito Urbano",
+    sede: "Circuito Urbanio",
     participantes: [
       {
         numero_atleta: 5002,
